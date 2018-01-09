@@ -1,0 +1,10 @@
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintscreenDLL\bin\Debug\PrintscreenDLL.dll
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintscreenDLL\bin\Debug\PrintscreenDLL.pdb
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintscreenDLL\obj\Debug\ResolveAssemblyReference.cache
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintscreenDLL\obj\Debug\PrintscreenDLL.dll
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintscreenDLL\obj\Debug\PrintscreenDLL.pdb
+D:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintscreenDLL\bin\Debug\PrintscreenDLL.dll
+D:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintscreenDLL\bin\Debug\PrintscreenDLL.pdb
+D:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintscreenDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintscreenDLL\obj\Debug\PrintscreenDLL.dll
+D:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintscreenDLL\obj\Debug\PrintscreenDLL.pdb

@@ -1,0 +1,10 @@
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintScreen\bin\Release\PrintScreen.exe
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintScreen\bin\Release\PrintScreen.pdb
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintScreen\bin\Release\PrintscreenDLL.dll
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintScreen\bin\Release\PrintscreenDLL.pdb
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintScreen\obj\Release\ResolveAssemblyReference.cache
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintScreen\obj\Release\WindowsFormsApplication1.Form1.resources
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintScreen\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintScreen\obj\Release\PrintScreen.csproj.GenerateResource.Cache
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintScreen\obj\Release\PrintScreen.exe
+F:\SRC\C#_dir_workspace\Projects\PrintScreen\PrintScreen\obj\Release\PrintScreen.pdb
